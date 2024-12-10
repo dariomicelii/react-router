@@ -20,7 +20,18 @@ export default function ChiSiamoPage() {
         excepturi! Lorem ipsum dolor, sit amet consectetur adipisicing elit.
         Atque, inventore. Quo autem, fuga sint officiis labore laboriosam nihil
         blanditiis vitae atque veritatis! Nesciunt ipsa delectus ipsum?
-        Voluptate voluptatum exercitationem excepturi!
+        Voluptate voluptatum exercitationem excepturi!Lorem ipsum dolor, sit
+        amet consectetur adipisicing elit. Atque, inventore. Quo autem, fuga
+        sint officiis labore laboriosam nihil blanditiis vitae atque veritatis!
+        Nesciunt ipsa delectus ipsum? Voluptate voluptatum exercitationem
+        excepturi! Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+        Atque, inventore. Quo autem, fuga sint officiis labore laboriosam nihil
+        blanditiis vitae atque veritatis! Nesciunt ipsa delectus ipsum?
+        Voluptate voluptatum exercitationem excepturi! Lorem ipsum dolor, sit
+        amet consectetur adipisicing elit. Atque, inventore. Quo autem, fuga
+        sint officiis labore laboriosam nihil blanditiis vitae atque veritatis!
+        Nesciunt ipsa delectus ipsum? Voluptate voluptatum exercitationem
+        excepturi!
       </p>
     </div>
   );
