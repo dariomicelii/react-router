@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container">
         <a className="navbar-brand" href="#">
-          React template
+          MyBlog.it
         </a>
         <button
           className="navbar-toggler"
@@ -28,6 +28,11 @@ export default function Navbar() {
             <li className="nav-item">
               <NavLink className="nav-link" to="/about">
                 Chi siamo?
+              </NavLink>
+            </li>
+            <li className="nav-item">
+              <NavLink className="nav-link" to="/posts">
+                Post
               </NavLink>
             </li>
           </ul>
